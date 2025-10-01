@@ -1,0 +1,6 @@
+01.10.2025	17:03	Init - alle Schalter zurücksetzen
+01.10.2025	17:03	Der Kunde gibt seine Rechnungsdaten ein!
+01.10.2025	17:03	Stop: das Programm beendet definiert!
+01.10.2025	17:09	Init - alle Schalter zurücksetzen
+01.10.2025	17:09	Der Kunde gibt seine Rechnungsdaten ein!
+01.10.2025	17:09	Stop: das Programm beendet definiert!
