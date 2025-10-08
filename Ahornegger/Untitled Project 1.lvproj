@@ -17,10 +17,10 @@
 		<Item Name="DATEN" Type="Folder" URL="../DATEN">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="DOCU" Type="Folder" URL="../DOCU">
+		<Item Name="DOKUMENTATION" Type="Folder" URL="../DOKUMENTATION">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="FGVS" Type="Folder" URL="../FGVS">
+		<Item Name="FGVs" Type="Folder" URL="../FGVs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="HARDWARE" Type="Folder" URL="../HARDWARE">
@@ -29,7 +29,7 @@
 		<Item Name="MAIN" Type="Folder" URL="../MAIN">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="SUBVIS" Type="Folder" URL="../SUBVIS">
+		<Item Name="SUBVIs" Type="Folder" URL="../SUBVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies">
