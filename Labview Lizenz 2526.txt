@@ -1,0 +1,26 @@
+Liebe Kollegen!
+
+Die neue Seriennummer für NI Softwareprodukte im aktuellen Schuljahr lautet:
+
+Schuljahr 2025/26 Seriennummer:    D11L1100141
+Schulrechner sind über unseren Lizenzserver lizenziert
+Ich bitte euch eine einheitliche Softwareversion zu verwenden: (LabVIEW 2023 Q3, Multisim 14.3)
+
+Mit dieser Seriennummer lizenzierte Software könnt ihr hier nachlesen:
+In der NI Academic Volume License enthaltene Software - NI
+
+ 
+
+Das ist unter anderem:
+- LabVIEW mit sehr vielen Toolkits (zB LabVIEW OPC UA Toolkit)
+- NI G Web Development Software
+- Vision
+- DIAdem
+- Measurement Studio
+- Multisim
+- Ultiboard
+
+ 
+
+Liebe Grüße
+Thomas
