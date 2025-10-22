@@ -1,0 +1,16 @@
+Mach wasMach wasSigma
+Sigma
+01.10.2025	16:56	Sigma
+01.10.2025	16:56	Sigma
+01.10.2025	17:00	Init - alle Schalter zurücksetzen
+01.10.2025	17:00	Der Kunde gibt seine Rechnungsdaten 
+ein!
+01.10.2025	17:00	Stop: das Programm beendet definiert!
+01.10.2025	17:10	Init - alle Schalter zurücksetzen
+01.10.2025	17:10	Der Kunde gibt seine Rechnungsdaten 
+ein!
+01.10.2025	17:10	Stop: das Programm beendet definiert!
+08.10.2025	16:20	Init - alle Schalter zurücksetzen
+08.10.2025	16:20	Der Kunde gibt seine Rechnungsdaten 
+ein!
+08.10.2025	16:20	Stop: das Programm beendet definiert!
