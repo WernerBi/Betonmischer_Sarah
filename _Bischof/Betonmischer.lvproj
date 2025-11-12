@@ -32,6 +32,8 @@
 		<Item Name="SUBVIs" Type="Folder" URL="../SUBVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Betonauswahl.ctl" Type="VI" URL="../../Pusterhofer/CONTROLS/Betonauswahl.ctl"/>
+		<Item Name="Betonauswahl.vi" Type="VI" URL="../../Pusterhofer/MAIN/Betonauswahl.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
