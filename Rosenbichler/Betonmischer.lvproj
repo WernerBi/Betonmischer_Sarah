@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="23008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -32,6 +33,9 @@
 		<Item Name="SUBVIs" Type="Folder" URL="../SUBVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Betonauswahl.vi" Type="VI" URL="../../Pusterhofer/MAIN/Betonauswahl.vi"/>
+		<Item Name="Betonauswahl.ctl" Type="VI" URL="../../Pusterhofer/CONTROLS/Betonauswahl.ctl"/>
+		<Item Name="FGV Status.ctl" Type="VI" URL="../../Pusterhofer/CONTROLS/FGV Status.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
