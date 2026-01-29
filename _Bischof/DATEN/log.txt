@@ -1,44 +1,13 @@
-Sarah Sarah Sarah Sarah Sarah 
-Sarah 
-Sarah 
-01.10.2025	16:56	Sarah 
-01.10.2025	16:56	Sarah 
-01.10.2025	17:00	Init - alle Schalter zurücksetzen
-01.10.2025	17:00	Der Kunde gibt seine Rechnungsdaten 
-ein!
-01.10.2025	17:00	Stop: das Programm beendet definiert!
-01.10.2025	17:02	Init - alle Schalter zurücksetzen
-01.10.2025	17:02	Der Kunde gibt seine Rechnungsdaten ein!    
-01.10.2025	17:02	Stop: das Programm beendet definiert!
-08.10.2025	16:24	Init - alle Schalter zurücksetzen
-08.10.2025	16:24	Der Kunde gibt seine Rechnungsdaten ein!   
-08.10.2025	16:24	Stop: das Programm beendet definiert!
-08.10.2025	16:31	Init - alle Schalter zurücksetzen
-08.10.2025	16:32	Der Kunde gibt seine Rechnungsdaten ein!   
-08.10.2025	16:32	Stop: das Programm beendet definiert!
-08.10.2025	16:32	Init - alle Schalter zurücksetzen
-08.10.2025	16:32	Init - alle Schalter zurücksetzen
-08.10.2025	16:32	Der Kunde gibt seine Rechnungsdaten ein!   
-08.10.2025	16:32	Stop: das Programm beendet definiert!
-08.10.2025	16:32	Init - alle Schalter zurücksetzen
-08.10.2025	16:32	Der Kunde gibt seine Rechnungsdaten ein!   
-08.10.2025	16:32	Stop: das Programm beendet definiert!
-08.10.2025	16:47	Init - alle Schalter zurücksetzen
-08.10.2025	16:48	Der Kunde hat seine Rechnungsdaten eingegeben!   
-08.10.2025	16:48	Stop: das Programm beendet definiert!
-08.10.2025	16:48	Init - alle Schalter zurücksetzen
-08.10.2025	16:48	Der Kunde hat seine Rechnungsdaten eingegeben!   
-08.10.2025	16:48	Stop: das Programm beendet definiert!
-08.10.2025	16:49	Init - alle Schalter zurücksetzen
-08.10.2025	16:50	Der Kunde hat seine Rechnungsdaten eingegeben!   
-08.10.2025	16:50	Stop: das Programm beendet definiert!
-08.10.2025	17:15	Init - alle Schalter zurücksetzen
-08.10.2025	17:17	Init - alle Schalter zurücksetzen
-08.10.2025	17:17	Der Kunde hat seine Rechnungsdaten eingegeben!   
-08.10.2025	17:17	Stop: das Programm beendet definiert!
-08.10.2025	17:17	Init - alle Schalter zurücksetzen
-08.10.2025	17:17	Der Kunde hat seine Rechnungsdaten eingegeben!   
-08.10.2025	17:17	Stop: das Programm beendet definiert!
-22.10.2025	15:45	Init - alle Schalter zurücksetzen
-22.10.2025	15:46	Der Kunde hat seine Rechnungsdaten eingegeben!   
-22.10.2025	15:46	Stop: das Programm beendet definiert!
+19.11.2025	16:25	Init - alle Schalter zurücksetzen
+19.11.2025	16:25	Der Kunde hat seine Rechnungsdaten eingegeben!   
+19.11.2025	16:25	Beton ausgewählt
+19.11.2025	16:25	Init - alle Schalter zurücksetzen
+19.11.2025	16:25	Der Kunde hat seine Rechnungsdaten eingegeben!   
+19.11.2025	16:26	Beton ausgewählt
+19.11.2025	16:26	Bezahlung erfolgreich durchgeführt
+19.11.2025	16:26	Stop: das Programm beendet definiert!
+19.11.2025	16:49	Init - alle Schalter zurücksetzen
+19.11.2025	16:49	Der Kunde hat seine Rechnungsdaten eingegeben!   
+19.11.2025	16:49	Beton ausgewählt
+19.11.2025	16:50	Bezahlung erfolgreich durchgeführt
+19.11.2025	16:50	Stop: das Programm beendet definiert!

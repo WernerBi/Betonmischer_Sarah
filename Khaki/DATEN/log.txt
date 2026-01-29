@@ -426,3 +426,12 @@ MustafaMustafaMustafaMustafaMustafa Mustafa  Mustafa  Mustafa  Mustafa  Mustafa 
 08.10.2025	17:21	Default state
 08.10.2025	17:21	Kundeneingabe
 08.10.2025	17:21	Stop
+12.11.2025	16:54	Default state
+12.11.2025	16:54	Kundeneingabe
+12.11.2025	16:54	Stop
+12.11.2025	16:56	Default state
+12.11.2025	16:56	Kundeneingabe
+12.11.2025	16:57	Stop
+12.11.2025	16:57	Default state
+12.11.2025	16:57	Kundeneingabe
+12.11.2025	16:57	Stop
